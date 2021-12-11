@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Norbert
 #### Full-Stack Software Developer
-![Full-Stack Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am from Miami, FL. I am a Full-Stack Software Developer that enjoys creating good web applications for both the front and back-end.
 
 Skills: / HTML / CSS/ JS / BOOTSTRAP / REACT / PYTHON / FLASK / SQL / SQLALCHEMY / GIT / INSOMNIA / POSTMAN 
 
