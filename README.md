@@ -5,7 +5,7 @@
 
 📫 How to reach me: sealsnorbert@gmail.com 
 
-✔️ Skills: / HTML / CSS/ JS / BOOTSTRAP / REACT / PYTHON / FLASK / SQL / SQLALCHEMY / GIT / INSOMNIA / POSTMAN 
+✔️ Skills: / HTML / CSS/ JS / BOOTSTRAP / REACT / PYTHON / FLASK / SQL / SQLALCHEMY / Node.JS/ Express/ MongoDB / GIT / INSOMNIA / POSTMAN 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/norbert-seals-9422a673//)  
 
