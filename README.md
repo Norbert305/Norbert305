@@ -8,7 +8,12 @@
  <h5>Group Projects</h5>
 
 <p><a href="https://github.com/Norbert305/RoadBros-FinalProject">RoadBros - Roadside Assistance App</a></p> 
-<p></p><a href="https://github.com/strategio-tech/fp-sim7-strajutsu-kaisen">CineMate - Movie Reviews App</a></p>
+<p><a href="https://github.com/strategio-tech/fp-sim7-strajutsu-kaisen">CineMate - Movie Reviews App</a></p>
+
+<h5>Personal Projects</h5>
+
+<p><a href="https://github.com/Norbert305/react-ecommerce-shopping-cart">Shopping Cart</a></p>
+<p><a href="https://github.com/Norbert305/crud-react-node-mySQL-go">Lama Books</a></p>
 
 ✔️ Skills: / HTML / CSS/ JS / BOOTSTRAP / REACT / PYTHON / FLASK / SQL / SQLALCHEMY / Node.JS / Express / MongoDB / Golang / GraphQL / Java / Command-Line / GIT / INSOMNIA / POSTMAN 
 
