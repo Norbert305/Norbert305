@@ -17,6 +17,7 @@ Personal Projects
 
 <p><a href="https://github.com/Norbert305/react-ecommerce-shopping-cart">Shopping Cart App</a></p>
 <p><a href="https://github.com/Norbert305/crud-react-node-mySQL-go">Lama Books App</a></p>
+<p><a href="https://github.com/Norbert305/mern-fullstack-job-tracker-2022">Job Tracker</a></p>
 
 ✔️ Skills: / HTML / CSS/ JS / BOOTSTRAP / REACT / PYTHON / FLASK / SQL / SQL-ALCHEMY / Node.JS / Express / MongoDB / Golang / GraphQL / Java / Command-Line / GIT / INSOMNIA / POSTMAN 
 
