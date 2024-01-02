@@ -14,7 +14,7 @@
 <p><a href="https://github.com/strategio-tech/fp-sim7-strajutsu-kaisen">CineMate - Movie Reviews App</a></p>
 
 Personal Projects
-
+<p><a href="https://github.com/Norbert305/mern-project-jwt-fullstack-2022">JWT Login/Sign-Up</a></p>
 <p><a href="https://github.com/Norbert305/react-ecommerce-shopping-cart">Shopping Cart App</a></p>
 <p><a href="https://github.com/Norbert305/crud-react-node-mySQL-go">Lama Books App</a></p>
 <p><a href="https://github.com/Norbert305/mern-fullstack-job-tracker-2022">Job Tracker App</a></p>
